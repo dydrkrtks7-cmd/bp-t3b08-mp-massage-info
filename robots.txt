@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://dangsan-club-note.best-seocho-karaoke.xyz/sitemap.xml
+Sitemap: https://dangsan-club-note.best-seocho-karaoke.xyz/sitemap-pages.xml
